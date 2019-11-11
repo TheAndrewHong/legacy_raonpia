@@ -1,0 +1,57 @@
+#side_content {text-align:center;}
+
+@media screen and (max-width: 767px){
+.content.panel > .panel-heading{display:none} /* panel-heading 을 사용하는 분은 이 줄을 삭제하세요. */
+
+.row-offcanvas-left #sidebar{left:auto;margin-left:auto;position:static;width:auto;padding:0}
+}
+
+@media(max-width:767px) {#content>.panel-heading{display:block !important}#content>.panel-heading button.close{display:none}}
+#navbar.navbar-inverse{
+   background:rgba(0,0,0,.1);
+    border-width:0 0 0px !important;
+}
+
+#navbar.navbar-inverse .navbar-nav>.active>a,#navbar.navbar-inverse .navbar-nav>.active>a:hover,#navbar.navbar-inverse .navbar-nav>.active>a:focus{background-color:rgba(0,0,0,.3)}
+#navbar.navbar-inverse .dropdown-menu{background:rgba(0,0,0,.3);border-color:rgba(0,0,0,.5)}
+#navbar.navbar-inverse .navbar-nav .open>a,#navbar.navbar-inverse .navbar-nav>.open>a:hover,#navbar.navbar-inverse .navbar-nav>.open>a:focus{background-color:transparent}
+
+#navbar.navbar-inverse .dropdown-menu>li>a:hover{background:rgba(0,0,0,.3);border-color:rgba(0,0,0,.5)}
+#navbar.navbar-inverse .dropdown-menu>li>a:active{background:rgba(0,0,0,.3);border-color:rgba(0,0,0,.5)}
+#navbar.navbar-inverse .dropdown-menu>.active>a{background:rgba(0,0,0,.3);border-color:rgba(0,0,0,.5)}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://web.archive.org/web/20150820043143im_/http://raonpia.com/custom/main_images/05.jpg) !important;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.black-tooltip + .tooltip > .tooltip-inner {
+	background-color: #000;
+	color: #fff;
+}
+.black-tooltip + .tooltip > .tooltip-arrow { border-bottom-color:#000; }
+/*
+     FILE ARCHIVED ON 04:31:43 Aug 20, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:45:04 Nov 11, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.341
+  captures_list: 65.229
+  PetaboxLoader3.resolve: 47.834
+  RedisCDXSource: 0.996
+  esindex: 0.024
+  load_resource: 71.94
+  PetaboxLoader3.datanode: 40.716 (4)
+  CDXLines.iter: 15.518 (3)
+  exclusion.robots: 0.364
+  LoadShardBlock: 44.661 (3)
+*/

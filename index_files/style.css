@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* NAVER (developers@xpressengine.com) */
+.xe_content {color:#000;font-size:13px;font-family:sans-serif;line-height:1.5}
+.xe_content blockquote.q1,
+.xe_content blockquote.q2,
+.xe_content blockquote.q3,
+.xe_content blockquote.q4,
+.xe_content blockquote.q5,
+.xe_content blockquote.q6,
+.xe_content blockquote.q7{padding:10px;margin:0 15px}
+.xe_content blockquote.q1{padding:0 10px;border-left:2px solid #ccc}
+.xe_content blockquote.q2{padding:0 10px;background:url(/web/20150820043144im_/http://raonpia.com/modules/editor/styles/ckeditor_light/img/bg_qmark.gif) no-repeat left top}
+.xe_content blockquote.q3{border:1px solid #d9d9d9}
+.xe_content blockquote.q4{border:1px solid #d9d9d9;background:#fbfbfb}
+.xe_content blockquote.q5{border:2px solid #707070}
+.xe_content blockquote.q6{border:1px dashed #707070}
+.xe_content blockquote.q7{border:1px dashed #707070;background:#fbfbfb}
+.xe_content p{margin:0}
+
+
+/*
+     FILE ARCHIVED ON 04:31:44 Aug 20, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:45:04 Nov 11, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.166
+  captures_list: 102.104
+  PetaboxLoader3.resolve: 43.509
+  RedisCDXSource: 10.689
+  esindex: 0.013
+  load_resource: 109.363
+  PetaboxLoader3.datanode: 58.203 (4)
+  CDXLines.iter: 13.442 (3)
+  exclusion.robots: 0.178
+  LoadShardBlock: 75.182 (3)
+*/
